@@ -1,7 +1,8 @@
 ### Hi everyone!
 
-- 🔭 I’m a Math teacher 
-- 🌱 I’m currently learning **Data Analysis issues**
+- 📈 I’m a Math teacher 
+- 🌱 I’m interested in Data Analysis - Data Science.
+- 👀 I’m looking for my first job experience.
 - 😄 Pronouns: Luigi
 
 <!--
