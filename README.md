@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi everyone!
 
 - 🔭 I’m a Math teacher 
-- 🌱 I’m currently learning Data Analysis issues
+- 🌱 I’m currently learning **Data Analysis issues**
 - 😄 Pronouns: Luigi
 
 <!--
